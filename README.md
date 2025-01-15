@@ -16,3 +16,13 @@ Este projeto é um worker que escuta mensagens de um bot do Telegram e gera resu
    ```bash
    pip install -r requirements.txt
    ```
+
+2. Entre na pasta src:
+   ```bash
+   cd src
+   ```
+
+3. Execute o programa:
+   ```bash
+   python -m worker.__main__
+   ```
