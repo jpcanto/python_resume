@@ -1,0 +1,5 @@
+mysql-connector-python==8.0.30
+python-telegram-bot==20.0
+flake8==5.0.4
+black==23.1.0
+mypy==0.991
