@@ -1,4 +1,4 @@
-# Telegram Worker Project
+# Python Resume
 
 Este projeto é um worker que escuta mensagens de um bot do Telegram e gera resumos de diferentes tipos de conteúdo, como textos, vídeos e áudios.
 
